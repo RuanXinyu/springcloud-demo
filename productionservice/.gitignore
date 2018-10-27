@@ -12,7 +12,7 @@
 
 ### IntelliJ IDEA ###
 .idea
-*.iws
+*.iws   
 *.iml
 *.ipr
 
